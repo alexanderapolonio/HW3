@@ -1,0 +1,17 @@
+ body {
+    margin: 50px;
+    font-family: Helvetica, sans-serif;
+    font-size: 100%;
+    text-align: center;
+    color:maroon
+}
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 350%;
+    color:midnightblue;
+ }
+ #results {
+    font-family: Helvetica, sans-serif;
+    font-size: 200%;
+    color: maroon;
+ }
